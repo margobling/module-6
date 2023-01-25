@@ -1,4 +1,4 @@
-# Newspaper Page
+# Site with JS
 
 LICENSE: [MIT](./license.md)
 
